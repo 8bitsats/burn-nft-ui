@@ -7,7 +7,7 @@ class MyDocument extends Document {
         <Head>
           <meta
             name="description"
-            content="Burn your NFT and earn SOL"
+            content="Feel The Burn?"
           />
           <link rel="icon" href="/favicon.ico" />
 

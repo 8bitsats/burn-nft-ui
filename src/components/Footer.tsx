@@ -5,7 +5,7 @@ const Footer = () => {
             <div className="w-100 pb-6">
                 <div className="flex justify-center">
 
-                    <a href="https://twitter.com/laloutre" type="button" className="rounded-full border-2 border-white text-white leading-normal uppercase hover:bg-black hover:bg-opacity-50 focus:outline-none focus:ring-0 transition duration-150 ease-in-out w-9 h-9 m-1">
+                    <a href="https://twitter.com/0rdlibrary" type="button" className="rounded-full border-2 border-white text-white leading-normal uppercase hover:bg-black hover:bg-opacity-50 focus:outline-none focus:ring-0 transition duration-150 ease-in-out w-9 h-9 m-1">
                         <svg aria-hidden="true"
                             focusable="false"
                             data-prefix="fab"
@@ -22,7 +22,7 @@ const Footer = () => {
                         </svg>
                     </a>
 
-                    <a href="https://github.com/cryptoloutre/burn-nft-ui" type="button" className="rounded-full border-2 border-white text-white leading-normal uppercase hover:bg-black hover:bg-opacity-50 focus:outline-none focus:ring-0 transition duration-150 ease-in-out w-9 h-9 m-1">
+                    <a href="https://github.com/8bitsats" type="button" className="rounded-full border-2 border-white text-white leading-normal uppercase hover:bg-black hover:bg-opacity-50 focus:outline-none focus:ring-0 transition duration-150 ease-in-out w-9 h-9 m-1">
                         <svg aria-hidden="true"
                             focusable="false"
                             data-prefix="fab"
@@ -43,10 +43,10 @@ const Footer = () => {
 
             <div className="text-center text-white text-sm pb-3">
                 Made by
-                <a className="text-white" href="https://twitter.com/laloutre"> <strong>@laloutre</strong></a>
+                <a className="text-white" href="https://twitter.com/0rdlibrary"> <strong>@0rdlibrary</strong></a>
             </div>
             <div className="text-center text-white text-sm pb-3">
-                You can buy me a ☕️ : <strong>6MupHwVuaZnxeXbw2DEvH96ouaWdg5TygPaSruB4H7YG</strong>
+               Made Wif Love By <strong>8Bit</strong>
             </div>
         </footer>
     );
